@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-23T11:41:09Z",
+  "items": [
+    {
+      "id": "fdct-ri-capability",
+      "nameZh": "科研及創新資助計劃（能力提升類）",
+      "agency": "科學技術發展基金",
+      "audience": "澳門公立高等院校或公立醫療機構、依法設立的私立高等院校、依法設立的非牟利私人實體。實際申請資格以官方當期章程為準。",
+      "eligibility": [
+        "屬官方公布的申請實體類別",
+        "項目屬能力提升類：新進研究人員或擬提升科研能力者主導的研究",
+        "申請資助金額上限以當期章程為準（公開資料曾列不超過澳門元 50 萬）",
+        "須於截止日前（辦公時間內）遞交已簽署計劃書及附件"
+      ],
+      "fundingNote": "公開資料顯示本類別申請資助金額不超過澳門元 50 萬。屬無償財政資助；不保證獲批，金額以基金批示為準。",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-08-31",
+      "documents": [
+        "已簽署之項目計劃書紙本",
+        "章程所列附件（研究團隊、預算、倫理如適用）",
+        "申請實體證明文件"
+      ],
+      "applyChannels": [
+        "透過科技基金網上資助申請系統提交（www.fdct.gov.mo）",
+        "截止日前於辦公時間將已簽署紙本及附件遞交本基金",
+        "本 App 不代填、不代交、不登入政府系統"
+      ],
+      "officialURLs": [
+        "https://www.fdct.gov.mo/zh_tw/research_and_innovation.html"
+      ],
+      "status": "open",
+      "lastVerified": "2026-08-23",
+      "category": "grant",
+      "lastFetched": "2026-08-23",
+      "parseWarnings": [
+        "公開頁未找到截止日"
+      ],
+      "topics": [
+        "科研創科"
+      ]
+    },
+    {
+      "id": "fdct-ri-transform",
+      "nameZh": "科研及創新資助計劃（轉化創業類）",
+      "agency": "科學技術發展基金",
+      "audience": "澳門公立高等院校或公立醫療機構、依法設立的私立高等院校、依法設立的非牟利私人實體。",
+      "eligibility": [
+        "項目旨在把科研成果轉化為產業領域實際應用",
+        "申請資助金額上限以當期章程為準（公開資料曾列不超過澳門元 500 萬）",
+        "章程或另列項目負責人專利、過往資助等條件，請核對最新公告",
+        "紙本及網上提交均須在申請期內完成"
+      ],
+      "fundingNote": "公開資料顯示本類別申請資助金額不超過澳門元 500 萬。不保證獲批。",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-07-31",
+      "documents": [
+        "已簽署之項目計劃書",
+        "轉化／創業相關附件（按章程）",
+        "申請實體證明文件"
+      ],
+      "applyChannels": [
+        "科技基金網上資助申請系統",
+        "截止日前遞交已簽署紙本",
+        "本 App 不連接一戶通或基金登入頁"
+      ],
+      "officialURLs": [
+        "https://www.fdct.gov.mo/zh_tw/research_and_innovation_details/article/tranaent.html"
+      ],
+      "status": "closed",
+      "lastVerified": "2026-08-23",
+      "category": "grant",
+      "lastFetched": "2026-08-23",
+      "parseWarnings": [],
+      "topics": [
+        "科研創科",
+        "創業"
+      ]
+    },
+    {
+      "id": "fdct-enterprise-matching",
+      "nameZh": "企業創新研發資助計劃（配對類）",
+      "agency": "科學技術發展基金",
+      "audience": "在澳門特別行政區註冊的商業企業主或商業企業。",
+      "eligibility": [
+        "支持經科技基金「產學研線上配對平台」與高等院校成功配對而開展的研發項目",
+        "公開資料曾列：申請資助金額不超過澳門元 25 萬；若技術提供方為本地高等院校，可不超過 50 萬",
+        "企業註冊年期、稅務及社保狀況等以當期章程為準",
+        "每個項目須設負責人"
+      ],
+      "fundingNote": "配對類為無償財政資助。上限以官方當期計劃為準。不保證獲批。",
+      "openDate": null,
+      "closeDate": null,
+      "documents": [
+        "項目計劃書",
+        "配對證明／平台紀錄（按章程）",
+        "商業登記及稅務狀況證明"
+      ],
+      "applyChannels": [
+        "科技基金網上系統及紙本遞交（詳見官方頁）",
+        "申請期以當期公告為準；若頁面未列日期，請直接查看官方頁",
+        "本 App 不代為配對或提交"
+      ],
+      "officialURLs": [
+        "https://www.fdct.gov.mo/zh_tw/enterprise_funding.html"
+      ],
+      "status": "open",
+      "lastVerified": "2026-08-23",
+      "category": "grant",
+      "lastFetched": "2026-08-23",
+      "parseWarnings": [
+        "公開頁未穩定列出本輪截止日，請以官方頁為準",
+        "公開頁未找到截止日"
+      ],
+      "topics": [
+        "科研創科",
+        "中小企"
+      ]
+    },
+    {
+      "id": "dsedt-youth-entrepreneur",
+      "nameZh": "青年創業援助計劃",
+      "agency": "經濟及科技發展局",
+      "audience": "年齡介乎 21 至 44 歲、於澳門從事工商業活動的澳門特別行政區永久性居民，以及由其持有超過 50% 出資的有限公司。",
+      "eligibility": [
+        "自然人企業主或持有超過 50% 出資的股東須為「澳門的創業青年」",
+        "從未獲工商業發展基金批給須償還的援助款項（章程對法人股東另有推定）",
+        "企業主非為澳門特別行政區債務人",
+        "企業在澳門營運不超過兩年",
+        "持有依法須具備的准照（尚未開業者除外）",
+        "須完成不少於 42 小時創業培訓，或具工商管理或同類高等教育學位／一年或以上文憑可免除"
+      ],
+      "fundingNote": "免息援助款項上限澳門元 30 萬，最長還款期以官方現行規定為準（公開資料曾列十年）。須用於設備、裝修、特許、技術專用權、知識產權、宣傳及營運資金等章程列明用途。不保證獲批。",
+      "openDate": null,
+      "closeDate": null,
+      "documents": [
+        "網上申請備案資料",
+        "身份證明及企業登記文件",
+        "培訓證明或學歷證明（如適用）",
+        "章程所列其他文件"
+      ],
+      "applyChannels": [
+        "於經濟及科技發展局網頁註冊後，經網上申請備案",
+        "亦可向局方綜合接待中心或委託的社區服務點遞交",
+        "政府入口：www.gov.mo 服務編號 PS-1347",
+        "本 App 不代填、不登入商社通"
+      ],
+      "officialURLs": [
+        "https://www.gov.mo/zh-hant/services/ps-1347/",
+        "https://dsedt.gov.mo/pg_ead_lsye_intro"
+      ],
+      "status": "year_round",
+      "lastVerified": "2026-08-23",
+      "category": "grant",
+      "lastFetched": "2026-08-23",
+      "parseWarnings": [
+        "公開頁未找到截止日"
+      ],
+      "topics": [
+        "創業"
+      ]
+    },
+    {
+      "id": "fdc-culture-representative",
+      "nameZh": "文化發展基金資助計劃（代表性佔位）",
+      "agency": "文化發展基金",
+      "audience": "從事文化產業、藝術創作或相關活動、符合當期章程的澳門實體或個人。本筆為結構佔位，細節以官方最新計劃為準。",
+      "eligibility": [
+        "符合當期公開章程的申請人類別",
+        "項目屬文化發展基金當期資助範圍",
+        "須在公布的申請期內遞交",
+        "不保證獲批"
+      ],
+      "fundingNote": "資助形式及上限按當期計劃公布。此筆為佔位資料，請以文化發展基金官網為準。",
+      "openDate": "2026-09-01",
+      "closeDate": "2026-09-30",
+      "documents": [
+        "申請表及計劃書（按當期章程）",
+        "身份或實體證明文件",
+        "預算及作品／項目說明"
+      ],
+      "applyChannels": [
+        "文化發展基金官方網站公布的申請入口",
+        "本 App 不代交"
+      ],
+      "officialURLs": [
+        "https://www.fdc.gov.mo/"
+      ],
+      "status": "upcoming",
+      "lastVerified": "2026-08-23",
+      "category": "grant",
+      "lastFetched": "2026-08-23",
+      "parseWarnings": [
+        "抓取公開頁失敗，沿用上一份日期"
+      ],
+      "topics": [
+        "文化"
+      ]
+    },
+    {
+      "id": "dspa-environment-placeholder",
+      "nameZh": "環保相關資助計劃（佔位）",
+      "agency": "環境保護局",
+      "audience": "符合當期環保資助或資助計劃章程的澳門企業或實體。本筆為結構佔位。",
+      "eligibility": [
+        "項目屬當期環保資助範圍（例如減廢、節能、污染防治等，以公告為準）",
+        "申請人符合章程所列資格",
+        "於申請期內遞交完整文件"
+      ],
+      "fundingNote": "形式及上限以環境保護局當期公告為準。佔位資料，不構成官方承諾。",
+      "openDate": "2026-08-01",
+      "closeDate": "2026-10-14",
+      "documents": [
+        "申請表格",
+        "項目說明及預算",
+        "企業／實體證明"
+      ],
+      "applyChannels": [
+        "環境保護局官方網站或當期通告所列入口",
+        "本 App 不代填"
+      ],
+      "officialURLs": [
+        "https://www.dspa.gov.mo/"
+      ],
+      "status": "open",
+      "lastVerified": "2026-08-23",
+      "category": "grant",
+      "lastFetched": "2026-08-23",
+      "parseWarnings": [],
+      "topics": [
+        "環保"
+      ]
+    },
+    {
+      "id": "dsedt-sme-aid",
+      "nameZh": "中小企業援助計劃",
+      "agency": "經濟及科技發展局",
+      "audience": "在澳門經營、符合中小企業援助計劃章程的商業企業。",
+      "eligibility": [
+        "符合中小企業定義及章程所列營運條件",
+        "企業主或主要股東或須提供個人擔保（以章程為準）",
+        "用途限於設備、裝修擴充、特許、技術專用權、知識產權、宣傳、營運資金或章程列明的特殊情況",
+        "第二次援助另有還清紀錄等條件，請核對官方"
+      ],
+      "fundingNote": "公開資料顯示免息援助上限曾列澳門元 60 萬，最長還款期十年。以現行規章為準。不保證獲批。",
+      "openDate": null,
+      "closeDate": null,
+      "documents": [
+        "申請表",
+        "商業登記、稅務及准照文件",
+        "資金用途證明（報價、合同等）",
+        "諮詢委員會所需其他資料"
+      ],
+      "applyChannels": [
+        "經濟及科技發展局網上服務或接待中心",
+        "部分計劃可由委託工商團體社區服務點代收",
+        "本 App 不登入商社通"
+      ],
+      "officialURLs": [
+        "https://www.gov.mo/zh-hant/",
+        "https://dsedt.gov.mo/"
+      ],
+      "status": "year_round",
+      "lastVerified": "2026-08-23",
+      "category": "grant",
+      "lastFetched": "2026-08-23",
+      "parseWarnings": [
+        "抓取公開頁失敗，沿用上一份日期"
+      ],
+      "topics": [
+        "中小企"
+      ]
+    },
+    {
+      "id": "fdct-rd-talent-placeholder",
+      "nameZh": "科技研發人才資助計劃（企業研發人才類佔位）",
+      "agency": "科學技術發展基金",
+      "audience": "聘用或培養研發人才的澳門科技企業，以及其他章程列明的申請實體。本筆為創科配套佔位。",
+      "eligibility": [
+        "符合科技基金當期「科技研發人才資助計劃」企業研發人才類條件",
+        "人才及企業資格以章程為準",
+        "須於公布的申請期內經網上系統提交"
+      ],
+      "fundingNote": "資助範圍與金額以當期章程為準。佔位資料，請以 fdct.gov.mo 最新公告為準。不保證獲批。",
+      "openDate": "2026-08-10",
+      "closeDate": "2026-09-12",
+      "documents": [
+        "網上申請表",
+        "企業與人才證明文件",
+        "章程所列工作計劃"
+      ],
+      "applyChannels": [
+        "科技基金網上資助申請系統（www.fdct.gov.mo）",
+        "本 App 不代交"
+      ],
+      "officialURLs": [
+        "https://www.fdct.gov.mo/"
+      ],
+      "status": "open",
+      "lastVerified": "2026-08-23",
+      "category": "grant",
+      "lastFetched": "2026-08-23",
+      "parseWarnings": [
+        "公開頁未找到截止日"
+      ],
+      "topics": [
+        "人才",
+        "科研創科"
+      ]
+    }
+  ]
+}
