@@ -209,7 +209,7 @@
       ],
       "fundingNote": "形式及上限以環境保護局當期公告為準。佔位資料，不構成官方承諾。",
       "openDate": "2026-08-01",
-      "closeDate": "2026-10-14",
+      "closeDate": "2026-08-26",
       "documents": [
         "申請表格",
         "項目說明及預算",
@@ -226,7 +226,9 @@
       "lastVerified": "2026-08-23",
       "category": "grant",
       "lastFetched": "2026-08-23",
-      "parseWarnings": [],
+      "parseWarnings": [
+        "公開頁未找到截止日"
+      ],
       "topics": [
         "環保"
       ]
