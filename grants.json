@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T12:19:16Z",
+  "generatedAt": "2026-08-23T12:42:07Z",
   "items": [
     {
       "id": "fdct-ri-capability",
@@ -90,7 +90,7 @@
       ],
       "fundingNote": "配對類為無償財政資助。上限以官方當期計劃為準。不保證獲批。",
       "openDate": null,
-      "closeDate": null,
+      "closeDate": "2024-05-31",
       "documents": [
         "項目計劃書",
         "配對證明／平台紀錄（按章程）",
@@ -104,14 +104,11 @@
       "officialURLs": [
         "https://www.fdct.gov.mo/zh_tw/enterprise_funding.html"
       ],
-      "status": "open",
+      "status": "closed",
       "lastVerified": "2026-08-23",
       "category": "grant",
       "lastFetched": "2026-08-23",
-      "parseWarnings": [
-        "公開頁未穩定列出本輪截止日，請以官方頁為準",
-        "公開頁未找到截止日"
-      ],
+      "parseWarnings": [],
       "topics": [
         "科研創科",
         "中小企"
