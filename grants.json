@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T03:32:17Z",
+  "generatedAt": "2026-10-06T04:20:23Z",
   "items": [
     {
       "id": "fdct-ri-capability",
@@ -152,9 +152,9 @@
         "https://dsedt.gov.mo/pg_ead_lsye_intro"
       ],
       "status": "year_round",
-      "lastVerified": "2026-10-05",
+      "lastVerified": "2026-10-06",
       "category": "grant",
-      "lastFetched": "2026-10-05",
+      "lastFetched": "2026-10-06",
       "parseWarnings": [
         "公開頁未找到截止日"
       ],
@@ -225,11 +225,11 @@
         "https://www.dspa.gov.mo/"
       ],
       "status": "closed",
-      "lastVerified": "2026-08-23",
+      "lastVerified": "2026-10-06",
       "category": "grant",
-      "lastFetched": "2026-10-04",
+      "lastFetched": "2026-10-06",
       "parseWarnings": [
-        "抓取公開頁失敗，沿用上一份日期"
+        "公開頁未找到截止日"
       ],
       "topics": [
         "環保"
